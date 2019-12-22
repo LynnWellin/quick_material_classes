@@ -1,0 +1,11 @@
+{
+  "name": "quick_material_classes",
+  "version": "1.0.0",
+  "description": "A package of common classes for use with the @material-ui/styles library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yury Lebedev",
+  "license": "ISC"
+}
